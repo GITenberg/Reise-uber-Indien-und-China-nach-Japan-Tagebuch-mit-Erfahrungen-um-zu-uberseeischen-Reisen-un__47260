@@ -1,4 +1,8 @@
 _repo: Reise-uber-Indien-und-China-nach-Japan-Tagebuch-mit-Erfahrungen-um-zu-uberseeischen-Reisen-un__47260
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47260-h/images/cover.jpg
 creator:
   authors:
   - agent_name: von, Richard
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44220'
     url: http://www.gutenberg.org/2009/agents/44220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47260#Reise-uber-Indien-und-China-nach-Japan-Tagebuch-mit-Erfahrungen-um-zu-uberseeischen-Reisen-un_
 gutenberg_issued: '2014-11-01'
 gutenberg_type: Text
 identifiers:
